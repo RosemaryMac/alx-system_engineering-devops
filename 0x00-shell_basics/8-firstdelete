@@ -1,2 +1,2 @@
 #!/bin/bash
-unlink betty       
+sudo rm -rf betty       
